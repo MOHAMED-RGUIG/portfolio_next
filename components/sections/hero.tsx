@@ -35,6 +35,7 @@ export function HeroSection() {
                  </Button></Link>
                  <Link
                   href="https://heyzine.com/flip-book/594dd2e295.html"
+  target="_blank"
                 >
                <Button
                   size="lg"
