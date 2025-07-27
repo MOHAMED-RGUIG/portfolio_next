@@ -34,7 +34,7 @@ export function HeroSection() {
                {t("getInTouch")}
                  </Button></Link>
                  <Link
-                  href="#"
+                  href="https://heyzine.com/flip-book/594dd2e295.html"
                 >
                <Button
                   size="lg"
