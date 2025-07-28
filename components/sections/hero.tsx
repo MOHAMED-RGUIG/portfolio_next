@@ -9,7 +9,7 @@ export function HeroSection() {
   const { t } = useLanguage()
   return (
   <div className="text-center lg:text-left">
-               <div className="mb-8">
+               <div className="mb-8 mt-4">
           <Image
                src="/profilephoto.png?height=200&width=200"
                alt="Alex Johnson"
