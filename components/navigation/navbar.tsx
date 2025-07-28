@@ -15,7 +15,7 @@ export function Navbar() {
       <nav className="fixed top-0 w-full bg-white/80 dark:bg-black/80 backdrop-blur-md z-50 border-b border-gray-200 dark:border-gray-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-4">
-            <div className="text-xl font-bold">Alex Johnson</div>
+            <div className="text-xl font-bold">Mohamed Rguig</div>
 
             {/* Desktop Navigation */}
             <div className="hidden md:flex items-center space-x-8">
