@@ -41,9 +41,9 @@ export default function Portfolio() {
       <section id="home" className="min-h-screen flex items-center justify-center px-4 pt-16">
         <div className="max-w-7xl mx-auto">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
-            {/* Left Side - Hero Content */}
+            {/* Left Side - Hero Content */}          <HeroSection />
           <AboutSection />
-          <HeroSection />
+
             {/* Right Side - About Content */}          
           </div>
         </div>
